@@ -3,15 +3,15 @@
   "version": "0.0.3",
   "description": "A client library for Honeywell Evohome",
   "author": "Chris Warren <chris@ixalon.net>",
-  "homepage": "https://github.com/ixalon/node-evohome/",
+  "homepage": "https://github.com/tieniber/node-evohome",
   "license": "BSD",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ixalon/node-evohome.git"
+    "url": "https://github.com/tieniber/node-evohome.git"
   },
   "bugs": {
-    "url": "https://github.com/ixalon/node-evohome/issues"
+    "url": "https://github.com/tieniber/node-evohome/issues"
   },
   "keywords": [
     "library",
